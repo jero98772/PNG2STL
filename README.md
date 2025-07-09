@@ -67,9 +67,9 @@ By default, the app runs at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 ---
 
 ### Screenshots
-![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/3.jpeg)
+![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/3.png)
 
-![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/2.jpeg)
+![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/2.png)
 
 ![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/1.jpeg)
 
