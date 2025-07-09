@@ -66,6 +66,11 @@ By default, the app runs at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ---
 
+### Screenshots
+![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/3.jpeg)
+![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/2.jpeg)
+![](https://raw.githubusercontent.com/jero98772/PNG2STL/refs/heads/main/screenshots/1.jpeg)
+
 ## 🔍 How the 2D to 3D Conversion Works
 
 The `convert_image_to_stl` function performs the core logic:
@@ -86,7 +91,7 @@ The `convert_image_to_stl` function performs the core logic:
 ## 🛠️ Customization
 
 - **Extrusion Height:**
-  Change `extrusion_scale` in `app.py` to adjust max 3D height.
+  Change `extrusion_scale` in `main.py` to adjust max 3D height.
 - **Model Color:**
   Modify the `color` in `THREE.MeshPhongMaterial` in `index.html`.
 - **Camera Zoom:**
